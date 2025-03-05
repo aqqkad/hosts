@@ -3,25 +3,25 @@
 # CDN Url: https://gcore.jsdelivr.net/gh/aqqkad/hosts@main/hosts
 # CDN Url: https://cdn.staticaly.com/gh/aqqkad/hosts/main/hosts
 # DNS Servers: Aliyun Computing Co. Ltd
-# Update at: 2025-03-05 14:33:18
+# Update at: 2025-03-05 20:47:45
 # Docker Hosts Start
-98.85.153.80    registry.hub.docker.com
-100.29.167.200  hub.docker.com
-140.82.121.34   ghcr.io
-142.251.163.82  gcr.io
-64.233.180.82   k8s.gcr.io
-34.224.186.241  quay.io
+44.208.254.194  registry.hub.docker.com
+54.156.14.194   hub.docker.com
+140.82.114.33   ghcr.io
+64.233.187.82   gcr.io
+173.194.174.82  k8s.gcr.io
+44.195.219.31   quay.io
 # Docker Hosts End
 # TMM Hosts Start
-3.171.38.13     themoviedb.org
-18.164.124.80   www.themoviedb.org
-18.173.219.85   api.themoviedb.org
+18.164.124.21   themoviedb.org
+18.164.124.68   www.themoviedb.org
+52.85.151.24    api.themoviedb.org
 108.139.29.100  tmdb.org
-108.138.106.14  api.tmdb.org
-185.93.1.250    image.tmdb.org
+108.138.106.125 api.tmdb.org
+138.199.36.9    image.tmdb.org
 104.21.14.73    opensubtitles.org
 104.21.14.73    www.opensubtitles.org
-104.21.14.73    api.opensubtitles.org
-158.69.0.103    assets.fanart.tv
+172.67.158.44   api.opensubtitles.org
+192.99.151.161  assets.fanart.tv
 # TMM Hosts End
 # ING Hosts End
