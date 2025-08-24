@@ -3,24 +3,24 @@
 # CDN Url: https://gcore.jsdelivr.net/gh/aqqkad/hosts@main/hosts
 # CDN Url: https://cdn.staticaly.com/gh/aqqkad/hosts/main/hosts
 # DNS Servers: Aliyun Computing Co. Ltd
-# Update at: 2025-08-24 20:49:20
+# Update at: 2025-08-25 02:33:44
 # Docker Hosts Start
-18.235.208.145  registry.hub.docker.com
-13.219.15.197   hub.docker.com
-140.82.112.33   ghcr.io
+52.70.125.84    registry.hub.docker.com
+54.152.111.236  hub.docker.com
+140.82.113.34   ghcr.io
 142.251.111.82  gcr.io
 172.253.122.82  k8s.gcr.io
-3.224.82.207    quay.io
+52.86.242.219   quay.io
 # Docker Hosts End
 # TMM Hosts Start
-18.155.252.82   themoviedb.org
+18.155.252.7    themoviedb.org
 18.155.252.82   www.themoviedb.org
-52.85.151.18    api.themoviedb.org
-143.204.23.48   tmdb.org
-3.167.112.71    api.tmdb.org
-185.93.1.250    image.tmdb.org
-172.67.74.14    opensubtitles.org
-104.26.6.244    www.opensubtitles.org
+52.85.151.48    api.themoviedb.org
+143.204.23.119  tmdb.org
+3.167.112.111   api.tmdb.org
+185.93.1.251    image.tmdb.org
+104.26.7.244    opensubtitles.org
+172.67.74.14    www.opensubtitles.org
 172.67.74.14    api.opensubtitles.org
 158.69.0.103    assets.fanart.tv
 # TMM Hosts End
